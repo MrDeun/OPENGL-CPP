@@ -1,0 +1,6 @@
+# ninja log v6
+79	156	7449226867298799	HelloGL.exe	abf3e9eb46bcf9ae
+1	79	7449226866518794	CMakeFiles/HelloGL.dir/main.cpp.obj	d3262f3a01bc998
+18	153	7451943278334621	CMakeFiles/HelloGL.dir/src/main.cpp.obj	303c819cb7d7c5ba
+1	7	7451942589476950	clean	849f5e09f5edbf29
+12	281	7451963910318113	build.ninja	46588ebc6ec091d4

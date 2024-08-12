@@ -1,0 +1,8 @@
+[
+{
+  "directory": "G:/Workspace/OpenGL/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGLFW_DLL -isystem G:/Workspace/OpenGL/vcpkg_installed/x64-windows/include -g -o CMakeFiles\\HelloGL.dir\\src\\main.cpp.obj -c G:\\Workspace\\OpenGL\\src\\main.cpp",
+  "file": "G:\\Workspace\\OpenGL\\src\\main.cpp",
+  "output": "CMakeFiles\\HelloGL.dir\\src\\main.cpp.obj"
+}
+]
